@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSS-Layout\CSS-Layout\bin\CSS-Layout.dll.config
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSS-Layout\CSS-Layout\bin\CSS-Layout.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSS-Layout\CSS-Layout\bin\CSS-Layout.pdb
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSS-Layout\CSS-Layout\obj\Debug\CSS-Layout.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSS-Layout\CSS-Layout\obj\Debug\CSS-Layout.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSS-Layout\CSS-Layout\obj\Debug\CSS-Layout.pdb

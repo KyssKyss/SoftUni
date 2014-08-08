@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+     table {
+        background-color: #234465;
+     }
+        nav ul li {
+            display: inline;
+            color: white;
+            padding-right: 30px;
+            font-size: 0.9em;
+        }
+        label {
+            color: white;
+        }
+        input[type="search"] {
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <table>
+            <tr>
+                <td rowspan="3">
+                    <a href="https://softuni.bg"><img src="https://softuni.bg/Content/design/logo.png" alt="SoftUni logo" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <label>0</label>
+                    <img src="https://softuni.bg/Content/design/notificationsIcon.png" alt="notification">
+                </td>
+                <td>
+                    <label>USER</label>
+                </td>
+                <td>
+                    <input type="search" placeholder="Search..."/>
+                </td>
+                <td>
+                   <button><img src="https://softuni.bg/Content/design/magn-glass-icon17.png" alt="search" id="searchButton"></button>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <nav>
+                    <ul>
+                        <li>NEWS</li>
+                        <li>ABOUT THE UNIVERSITY</li>
+                        <li>TRAINING COURSES</li>
+                        <li>FOR COMPANIES</li>
+                        <li>FORUM</li>
+                        <li>CONTACTS</li>
+                    </ul>
+                </nav>
+                </td>
+            </tr>
+        </table>
+    </header>
+</body>
+</html>

@@ -1,0 +1,108 @@
+﻿body {
+}
+section {
+    width: 40%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 20px;
+    border-left-style: dashed;
+    border-left-color: red;
+    border-left-width: 5px;
+    border-top-style: dotted;
+    border-top-color: yellow;
+    border-top-width: 5px;
+    border-right-style: solid;
+    border-right-color: green;
+    border-right-width: 10px;
+    padding-right: 20px;
+    border-bottom-style: double;
+    border-bottom-color: blue;
+    border-bottom-width: 6px;
+    padding-bottom: 20px;
+    box-shadow: #686767 15px 15px 10px;
+}
+header h1 {
+    text-transform: uppercase;
+    -webkit-text-shadow: 10px 10px 8px black;
+    text-shadow: 10px 10px 8px black;
+}
+div {
+    border-radius: 60px;
+}
+.buttons {
+    background-color: orange;
+    width: 160px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 3px;
+    display: inline-block;
+    border: 4px outset orange;
+}
+.buttons a {
+    text-decoration: none;
+    color: black;
+}
+#red {
+    border: 3px solid red;
+}
+    #red > p:first-of-type {
+        margin: 10px;
+        font-size: 1.3em;
+        -webkit-text-shadow: 15px 15px 35px black;
+        text-shadow: 15px 15px 35px black;
+    }
+#yellow {
+    border: 3px solid yellow;
+}
+#green {
+    border: 3px green solid;
+}
+#blue {
+    border: 3px solid blue;
+}
+#small-bubble {
+    position: absolute;
+    left: 61.5%;
+    top: 18%;
+	width: 12px;
+	height: 12px;
+	background: gray;
+	border-radius: 50%;
+	border: 2px dashed;
+    opacity: 0.6;
+	border-color: white;
+    box-shadow: 0 0 0 4px gray;
+}
+#middle-bubble {
+    position: absolute;
+    left: 64%;
+    top: 12%;
+	width: 24px;
+	height: 24px;
+	background: gray;
+	border-radius: 50%;
+	border: 3px dashed;
+    opacity: 0.6;
+	border-color: white;
+    box-shadow: 0 0 0 6px gray;
+}
+#top-bubble {
+    position: absolute;
+    left: 69%;
+    top: 4%;
+	width: 100px;
+	height: 60px;
+	background: gray;
+	border: 4px dashed;
+    opacity: 0.6;
+	border-color: white;
+    box-shadow: 0 0 0 6px gray;
+    color: white;
+    font-size: larger;
+    font-weight: bold;
+}
+#top-bubble p {
+    margin-top: 6px;
+}

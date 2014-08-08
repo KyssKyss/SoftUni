@@ -1,0 +1,108 @@
+﻿body {
+    background: url(../imgs/formBackground.jpg);
+}
+form {
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+h3 {
+    color: white;
+}
+div:not(.icon):not(.submit) {
+    background: rgba(255,255,255,0.3);
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 400px;
+    margin: 2px;
+}
+label {
+    padding-left: 10px;
+    padding-right: 30px;
+}
+input:not([type="radio"]), textarea{
+    width: 200px;
+    border-radius: 3px;
+    margin-bottom: 5px;
+    margin-top: 5px;
+    padding-left: 5px;
+}
+textarea {
+    height: 100px;
+}
+#code {
+    margin-left: 4px;
+}
+#cardNumber {
+    margin-left: 7px;
+}
+#countryInput {
+    margin-left: 37px;
+}
+#postCodeInput {
+    margin-left: 20px;
+}
+#addressInput {
+    margin-left: 42px;
+}
+#address{
+    display: inline-block;
+    margin-top: -15px;
+}
+#userPhone {
+    margin-left: 45px;
+}
+#userEmail {
+    margin-left: 50px;
+}
+#userName {
+    margin-left: 45px;
+}
+.icon {
+    display: inline-block;
+    width: 24px;
+    height: 18px;
+}
+.icon.masters {
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ177vKqiOsudZQlrpYlskp6S1PjWKcLms_KQn4_KxAYcbOhBQLXXxkLYg') no-repeat;
+    -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    margin-right: 5px;
+}
+.icon.visa {
+    background: url('http://upload.wikimedia.org/wikipedia/en/1/16/Former_Visa_(company)_logo.svg') no-repeat;
+       -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    margin-right: 5px;
+}
+.icon.amex {
+    background: url('http://openclipart.org/image/2400px/svg_to_png/68755/amex_card.png') no-repeat;
+    -o-background-size: 100%;
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    background-size: 100%;
+    margin-right: 5px;
+}
+#cardType {
+    display: inline-block;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+}
+.submit {
+    width: 80px;
+    padding: 5px;
+    vertical-align: middle;
+    text-align: center;
+    margin: 15px 0 0 150px;
+    background-color: #041057;
+    border-radius: 20px;
+}
+.submit a {
+    text-decoration: none;
+    color: white;
+}

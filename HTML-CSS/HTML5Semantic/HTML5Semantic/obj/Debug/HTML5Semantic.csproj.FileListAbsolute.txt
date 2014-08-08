@@ -1,0 +1,17 @@
+D:\SoftUni\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.dll.config
+D:\SoftUni\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.dll
+D:\SoftUni\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.pdb
+D:\SoftUni\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.csprojResolveAssemblyReference.cache
+D:\SoftUni\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.dll
+D:\SoftUni\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.pdb
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.dll.config
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.pdb
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.pdb
+B:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.dll
+B:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\bin\HTML5Semantic.pdb
+B:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.csprojResolveAssemblyReference.cache
+B:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.dll
+B:\SoftUni\SoftUni.git\trunk\HTML-CSS\HTML5Semantic\HTML5Semantic\obj\Debug\HTML5Semantic.pdb

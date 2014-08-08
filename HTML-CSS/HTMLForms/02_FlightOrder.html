@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <style>
+        section {
+            background-color: pink;
+            width: 400px;
+            margin-right: auto;
+            margin-left: auto;
+            padding: 10px;
+        }
+        form {
+            text-align: center;
+        }
+        h1, label, span {
+            font-style: italic;
+        }
+        h1 {
+            text-align: center;
+        }
+        label {
+            position: absolute;
+            padding-left: 5px;
+        }
+            input {                
+                margin-top: 20px;
+                width: 150px;
+            }
+        select {
+            margin-top: 20px;
+            width: 175px;
+        }
+         input[type='time'] {
+            width: 90px;
+            margin-right: 5px;
+        }
+            input[type='number'] {
+                width: 45px;
+            }
+            #flightClass {
+                width: 195px;
+            }
+            #prefDirect {
+             width: 20px;
+             margin-left: 110px;
+             margin-top: 3px;
+            }
+            input[type='submit'] {
+            margin-left: 60%;
+            margin-right: auto;
+            }
+    </style>
+</head>
+<body>
+    <section>
+        <h1>FLIGHT ORDER</h1>
+        <form>            
+            <label for="from">From</label>
+            <select id="from">
+                <option>enter a city</option>
+                <option>enter a city1</option>
+                <option>enter a city2</option>
+                <option>enter a city3</option>
+            </select>
+            <label for="to">To</label>
+            <select id="to">
+                <option>enter a city</option>
+                <option>enter a city1</option>
+                <option>enter a city2</option>
+                <option>enter a city3</option>
+            </select>
+            <br />
+            <input type="checkbox" name="direct" id="prefDirect" /><span>Prefer directs</span><br />
+            <label for="depDate">Departure Date</label><input type="date" name="depDate" id="depDate" />
+            <label for="depTimeOne">Time Interval</label><input type="time" id="depTimeOne" /><input type="time" id="depTimeTwo" /><br />
+            <label for="rtnDate">Return Date</label><input type="date" name="rtnDate" id="rtnDate" />
+            <label for="rtnTimeOne">Time Interval</label><input type="time" id="rtnTimeOne" /><input type="time" id="rtnTimeTwo" /><br />
+            <label for="ageOverTwenty">12+</label><input type="number" min="13" max="150" id="ageOverTwenty" class="age"/>
+            <label for="ageOverTwo">2-12</label><input type="number" min="2" max="12" id="ageOverTwo" class="age"/>
+            <label for="ageUnderTwo">0-2</label><input type="number" min="0" max="2" id="ageUnderTwo" class="age"/>
+            <label for="flightClass">Choose class</label>
+            <select id="flightClass">
+                <option>Economy</option>
+                <option>Standart</option>
+                <option>Bisness</option>
+            </select>
+            <input type="submit" value="Search"/>
+        </form>
+    </section>
+</body>
+</html>

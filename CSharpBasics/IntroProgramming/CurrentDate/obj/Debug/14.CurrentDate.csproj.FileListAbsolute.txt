@@ -1,0 +1,3 @@
+B:\SoftUni\C#Basic\Intro-Programming-Homework\CurrentDate\bin\Debug\CurrentDate.exe.config
+B:\SoftUni\C#Basic\Intro-Programming-Homework\CurrentDate\obj\Debug\CurrentDate.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\CurrentDate\obj\Debug\CurrentDate.pdb

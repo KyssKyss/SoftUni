@@ -1,0 +1,141 @@
+﻿body {
+    width: 460px;
+    border: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    background-color: #cad4de;
+}
+body > header {    
+    background: #c1def7;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+  
+}
+section {
+    background: #d9e4f1;
+    width: 450px;
+    border-style: solid;
+    border-color: #d9e4f1;
+}
+section header {
+    background: #d6ddef;
+    margin: 0;
+    padding: 0;
+}
+header span {
+    top: 15px;
+    padding-left: 3px;
+}
+section header ul {
+    list-style: none;
+    padding-left: 10px;
+    padding-bottom: 0;
+    padding-top: 0;
+    border-bottom: 0;
+    margin-top: 0;
+    border-width: 1px;
+    border-color: #8797aa;
+    border-style: solid;
+}
+section header ul li:first-letter {
+    text-decoration: underline;
+}
+section header ul li {
+    display: inline-block;
+    padding-right: 20px;
+}
+
+section input[type="text"] {
+    width: 445px;
+    border-radius: 5px;
+    padding-top: 30px;
+    padding-bottom: 0;
+    text-align: right;
+    font-size: 1.6em;
+    font-family: Consolas;
+}
+.calc {
+    padding-top: 5px;
+    width: 22px;
+}
+
+div.min-max-close img {
+    float: left;
+    padding: 0;
+}
+div.min-max-close {
+    float: right;
+    border-width: 1px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-color: grey;
+    margin-right: 5px;
+    border-bottom: 20px;
+}
+aside section {
+    width: 70px;
+    padding-right: 20px;
+    border-width: 1px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border-color: #8797aa;
+}
+aside {
+    margin-top: -224px;
+}
+section input[type="radio"] {
+    margin-bottom: 8px;
+}
+table.mods {
+    width: 90px;
+    margin-left: 100px;
+    margin-top: 5px;
+    z-index: 3;
+}
+table.heximal {
+     width: 25px;
+     margin-left: 188px;
+     margin-top: -206px;
+     z-index: 2;
+}
+table.standart {
+    width: 220px;
+     margin-left: 230px;
+     margin-top: -206px;
+     z-index: 1;
+     margin-bottom: 20px;
+}
+button {
+    width: 40px;
+    height: 30px;
+    padding: 2px;
+}
+button:disabled {
+    background: #d9e4f1;
+    border-radius: 5px;
+    color: black;
+    border-style: solid;
+    border-color: #8797aa;
+    border-width: 1px;
+}
+button:hover {
+}
+#equal {
+     height: 64px;
+}
+#zero {
+    width: 85px;
+}
+.binary tbody tr td{
+    padding-right: 18px;
+    padding-left: 5px;
+    padding-bottom: 0;
+    font-size: 0.9em;
+    font-family: Consolas;
+}
+section.binary {
+    border-color: #8797aa;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style:groove;
+}

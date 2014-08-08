@@ -1,0 +1,28 @@
+﻿<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>Display DIVs Content</title>
+</head>
+<body>
+    <div>first div</div>
+    <div>second div</div>
+    <div class="empty"></div>
+    <div>
+        third div
+        <div>inner div</div>
+    </div>
+    <ul id="result"></ul>
+    <script>
+        var divs = document.body.getElementsByTagName('div');
+        var ulElement = document.getElementById('result');
+        for (var i in divs) {
+            var liElement = document.createElement('li');
+            if (divs[i].textContent) {
+                liElement.innerHTML = divs[i].textContent.replace(/\b\n/g, '<br />');
+                ulElement.appendChild(liElement);
+            }
+        }
+    </script>
+</body>
+</html>

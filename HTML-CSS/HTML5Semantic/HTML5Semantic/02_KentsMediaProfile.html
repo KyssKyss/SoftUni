@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Kent Profile</title>
+    <style>
+        main {
+            background-color: pink;
+            border-radius: 10px;
+            float: left;
+            text-align: center;
+        }
+        audio {
+            display: block;
+            padding-bottom: 10px;
+            margin-top: 5px;
+        }
+        #user, #upAudio, #upVideo {
+            float: left;
+            margin-left: 10px;
+        }
+        #upVideo {
+            margin-right: 20px;
+        }
+        #user figure {
+            margin-bottom: 0;
+        }
+        #user figure img {
+            width: 100%;
+        }
+        #user meter {
+            padding-top: 0;
+            margin-top: 0;
+            border: 0;
+            width: 60%;
+        }
+    </style>
+</head>
+<body>
+    <main>
+        <header><h1>Profile</h1></header>
+        <section id="user">
+            <header><h4>User: Kent</h4></header>
+            <figure>
+                <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQZibNZ-69V1xZFiyLIzLM6bQeXjx-x7DSKMMzmaDeSVw1wQ07aJSIRUg" />
+                <figcaption>Profile complited 60%</figcaption>
+            </figure>
+            <meter value="0.6" title="60%" min="0" max="1">60%</meter>
+        </section>
+        <section id="upAudio">
+            <header><h4>Uploaded Audio Files</h4></header>
+            <video controls>
+                <source src="mysong.ogg" type="audio/ogg">
+                <source src="mysong.mp3" type="audio/mpeg">
+                <track src="subtitles_no.vtt" kind="subtitles" srclang="no" label="Norwegian">
+                Your browser does not support the
+                <code>&lt;video&gt;</code> tag.
+            </video>
+            <audio controls>
+                <source src="mysong.ogg#t=60" type="audio/ogg">
+                <source src="mysong.mp3#t=60" type="audio/mpeg">
+                Your browser does not support the
+                <code>&lt;audio&gt;</code> tag.
+            </audio>
+            <audio controls autoplay>
+                <source src="mysong.ogg" type="audio/ogg">
+                <source src="mysong.mp3" type="audio/mpeg">
+                Your browser does not support the
+                <code>&lt;audio&gt;</code> tag.
+            </audio>
+            <audio src="music.ogg" controls="controls" />
+        </section>
+        <section id="upVideo">
+            <header><h4>Upload Video Files</h4></header>
+           <embed width="420" height="280" src="//www.youtube.com/embed/W8XwkMejAKc" allowfullscreen="true" />
+        </section>
+    </main>
+</body>
+</html>

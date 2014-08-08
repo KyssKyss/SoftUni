@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Simple Form</title>
+    <style>
+        section {
+            background-color: #e5e5e5;
+            height: 400px;
+            width: 700px;
+            color: gray;
+        }
+        h1 {
+            color: darkblue;
+        }
+        h3 strong {
+            color: darkblue;
+        }
+        input[type = 'text'], input[type = 'password'], input[type = 'email'] {
+            width: 300px;
+            height: 20px;
+            margin-bottom: 10px;
+        }
+        #register {
+            display: inline-block;
+            float: left;
+            width: 45%;
+            padding-left: 10px;
+            padding-bottom: 10px;
+            padding-top: 10px;
+            margin-left: 20px;
+        }
+        #login {
+            background-color: #0c0c73;
+            color: white;
+            /*display: inline-block;*/
+            float: right;
+            margin-right: 20px;
+            padding: 10px;
+            height: 60%;           
+        }
+            #login a {
+                color: white;
+                float: right;
+                padding-top: 30px;
+                position: absolute;
+                margin-left: 200px;
+            }
+        #loginBtn {
+            height: 40px;
+            border: 2px solid #FF9C00;
+            border-radius: 0;
+            background: none;
+            color: white;
+            font-size: 1.3em;
+            float: right;
+            clear: both;
+        }
+
+            #loginBtn:hover {
+                background: #FF9C00;
+                border: 2px solid #FF9C00;
+            }
+        #registerBtn {
+            height: 40px;
+            border: 2px solid #0c0c73;
+            border-radius: 0;
+            background: none;
+            color: #0c0c73;
+            font-size: 1.3em;
+            float: right;
+            margin-right: 10px;
+        }
+
+            #registerBtn:hover {
+                background: #0c0c73;
+                border: 2px solid #0c0c73;
+                color: lightgray;
+            }
+    </style>
+</head>
+<body>
+    <section>
+        <header><h1>Enter the system</h1></header>
+        <p>Its neccessary to login in Your account in order to sign in for a course.</p>
+        <div id="register">
+            <form method="post">
+                <header><h3>ARE YOU NEW? <strong>REGISTER</strong></h3></header>
+                <input type="text" placeholder="User name" id="regUserName" tabindex="1" name="regUserName" pattern="(([A-Z]{1,2})[a-z]+)*" title="Please enter only small and capital letters" required="required" />
+                <br />
+                <input type="email" placeholder="Email" />
+                <br />
+                <input type="password" placeholder="Password" id="regPassword" pattern="([a-zA-Z][\w]{6,})|([\u0400-\u04ff]+[\d]*)" maxlength="16" title="The password must be between 6 and 16, have to start with a alphabetic char" />
+                <br />
+                <input type="password" placeholder="Confirm Password" id="regConfirm" />
+                <br />
+                <input type="submit" value="Register" id="registerBtn" />
+            </form>
+        </div>
+        <div id="login">
+            <form method="post">
+                <header>
+                    <h3>ALREADY A STUDENT? LOGIN</h3>
+                </header>
+                <input type="text" id="logUserName" name="logUserName" placeholder="User name" pattern="(([A-Z]{1,2})[a-z]+)*" title="Please enter only small and capital letters" required="required" />
+                <br />
+                <input type="password" id="logPassword" name="logPassword" required="required" pattern="([a-zA-Z][\w]{6,})|([\u0400-\u04ff]+[\d]*)" maxlength="16" title="The password must be between 6 and 16, have to start with a alphabetic char" />
+                <br />
+                <input type="checkbox" id="remember" value="Remember me" />Remember me?
+                <input type="submit" value="Log in" id="loginBtn" />
+                <br />
+                <a href="#">Forgot Password</a>
+            </form>
+        </div>
+    </section>
+</body>
+</html>

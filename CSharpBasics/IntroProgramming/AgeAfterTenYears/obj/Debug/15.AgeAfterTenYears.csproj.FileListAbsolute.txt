@@ -1,0 +1,3 @@
+B:\SoftUni\C#Basic\Intro-Programming-Homework\AgeAfterTenYears\bin\Debug\AgeAfterTenYears.exe.config
+B:\SoftUni\C#Basic\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\AgeAfterTenYears\obj\Debug\AgeAfterTenYears.pdb

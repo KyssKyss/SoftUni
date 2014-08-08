@@ -1,0 +1,71 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>WebSite Header</title>
+    <style>
+     table {
+        background-color: #234465;
+        width: 100%;
+     }
+        nav ul li {
+            display: inline;
+            color: white;
+            padding-right: 30px;
+            font-size: 0.9em;
+        }
+        input[type="search"] {
+            border-radius: 5px;
+        }
+        #notification {
+            text-align: right;
+            margin-right: 30px;
+            padding-right: 30px;
+        }
+        button {
+            position: absolute;
+            margin-top: 4px;
+            height: 22px;
+            margin-left: -35px;
+            border-bottom-right-radius: 5px;
+            border-top-right-radius: 5px;
+        }
+        a {
+            text-decoration: none;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <table>
+            <tr>
+                <td rowspan="3">
+                    <a href="https://softuni.bg"><img src="https://softuni.bg/Content/design/logo.png" alt="SoftUni logo" /></a>
+                </td>
+            </tr>
+            <tr>
+                <td id="notification">
+                    <a href="https://softuni.bg/users/profile/show#">0 <img src="https://softuni.bg/Content/design/notificationsIcon.png" alt="notification"></a>
+                    <a href="https://softuni.bg/users/profile/show">USER</a>
+                    <input type="search" placeholder="Search..."/>
+                   <button><img src="https://softuni.bg/Content/design/magn-glass-icon17.png" alt="search" id="searchButton"></button>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                <nav>
+                    <ul>
+                        <li><a href="https://softuni.bg/news">NEWS</a></li>
+                        <li><a href="https://softuni.bg/about">ABOUT THE UNIVERSITY</a></li>
+                        <li><a href="https://softuni.bg/trainings/courses/list">TRAINING COURSES</a></li>
+                        <li><a href="https://softuni.bg/companies">FOR COMPANIES</a></li>
+                        <li><a href="https://softuni.bg/forum">FORUM</a></li>
+                        <li><a href="https://softuni.bg/contacts">CONTACTS</a></li>
+                    </ul>
+                </nav>
+                </td>
+            </tr>
+        </table>
+    </header>
+</body>
+</html>

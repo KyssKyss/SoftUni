@@ -1,0 +1,11 @@
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\bin\CSSOverview.dll.config
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\bin\CSSOverview.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\bin\CSSOverview.pdb
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\obj\Debug\CSSOverview.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\obj\Debug\CSSOverview.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\obj\Debug\CSSOverview.pdb
+B:\SoftUni\HTML-CSS\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\bin\CSSOverview.dll
+B:\SoftUni\HTML-CSS\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\bin\CSSOverview.pdb
+B:\SoftUni\HTML-CSS\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\obj\Debug\CSSOverview.csprojResolveAssemblyReference.cache
+B:\SoftUni\HTML-CSS\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\obj\Debug\CSSOverview.dll
+B:\SoftUni\HTML-CSS\SoftUni.git\trunk\HTML-CSS\CSSOverview\CSSOverview\obj\Debug\CSSOverview.pdb

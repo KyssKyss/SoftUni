@@ -1,0 +1,118 @@
+﻿body {
+    background-image: url(../imgs/colorful_dots_on_black.jpg);
+}
+body > header {
+    font-size: 2.5em;
+    background-color: green;
+    border-left: 450px solid red;
+    border-right: 450px solid blue;
+    text-align: center;
+    color: yellow;
+    padding-bottom: 10px;
+    width: 33%;
+}
+article {
+    background-color: white;
+    border-radius: 10px;
+    opacity: 0.9;
+    margin: 10px;
+    padding: 10px;
+}
+article div::first-line {
+    font-style: italic;
+}
+article div::first-letter{
+    font-size: 3em;
+}
+/*--------- Aside -----------*/
+aside {
+    float: left;
+    background-color: white;
+    border-radius: 10px;
+    opacity: 0.9;
+    margin: 10px;
+    padding: 10px;
+}
+aside nav header {
+    text-decoration: underline;
+    font-size: 1.4em;
+}
+    aside nav ul {
+        list-style-type: none;
+        padding-left: 10px;
+    }
+    aside nav ul li {
+        background: url('../imgs/dot.png') no-repeat left top;
+        padding-left: 28px;
+        border-radius: 5px;
+        margin: 5px;
+    }
+    aside nav ul li a {
+        text-decoration: none;
+        color: black;
+        
+    }
+    aside nav ul li a:visited {
+        color: gray;
+    }
+    aside nav ul li:nth-child(1):hover {
+        background-color: red;
+    }
+    aside nav ul li:nth-child(2):hover {
+        background-color: orange;
+    }
+    aside nav ul li:nth-child(3):hover {
+        background-color: yellow;
+    }
+    aside nav ul li:nth-child(4):hover {
+        background-color: green;
+    }
+    aside nav ul li:nth-child(5):hover {
+        background-color: blue;
+    }
+    aside nav ul li:nth-child(6):hover {
+        background-color: purple;
+    }
+
+/*--------- Section -----------*/
+section {
+    float: right;
+    width: 80%;
+}
+
+/*--------- Headers -----------*/
+article header {
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-size: 1.4em;
+}
+#webColors {
+    background-color: red;
+}
+#webSafeColors {
+    background-color: orange;
+    color: black;
+}
+#RGB {
+    background-color: yellow;
+    color: black;
+}
+#RGBA {
+     background-color: green;
+}
+#\#HSLHSV {
+    background-color: blue;
+}
+#\#lorem {
+    background-color: purple;
+}
+/*----------------------------------*/
+section:last-child span:first-of-type{
+    font-style: italic;
+    color: blue;
+}
+section footer a {
+    color: gray;
+    font-style: italic;
+}

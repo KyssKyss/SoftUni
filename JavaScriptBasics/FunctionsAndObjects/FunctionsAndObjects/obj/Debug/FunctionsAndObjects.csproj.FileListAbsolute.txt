@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni.git\trunk\JavaScriptBasics\FunctionsAndObjects\FunctionsAndObjects\bin\FunctionsAndObjects.dll.config
+D:\SoftUni\SoftUni.git\trunk\JavaScriptBasics\FunctionsAndObjects\FunctionsAndObjects\bin\FunctionsAndObjects.dll
+D:\SoftUni\SoftUni.git\trunk\JavaScriptBasics\FunctionsAndObjects\FunctionsAndObjects\bin\FunctionsAndObjects.pdb
+D:\SoftUni\SoftUni.git\trunk\JavaScriptBasics\FunctionsAndObjects\FunctionsAndObjects\obj\Debug\FunctionsAndObjects.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni.git\trunk\JavaScriptBasics\FunctionsAndObjects\FunctionsAndObjects\obj\Debug\FunctionsAndObjects.dll
+D:\SoftUni\SoftUni.git\trunk\JavaScriptBasics\FunctionsAndObjects\FunctionsAndObjects\obj\Debug\FunctionsAndObjects.pdb

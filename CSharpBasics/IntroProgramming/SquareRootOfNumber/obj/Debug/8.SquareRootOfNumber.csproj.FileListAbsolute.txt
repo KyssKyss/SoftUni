@@ -1,0 +1,6 @@
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.exe.config
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.pdb
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\obj\Debug\8.SquareRootOfNumber.csprojResolveAssemblyReference.cache
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\obj\Debug\SquareRootOfNumber.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\obj\Debug\SquareRootOfNumber.pdb

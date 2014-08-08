@@ -1,0 +1,3 @@
+B:\SoftUni\C#Basic\Intro-Programming-Homework\PrintThreeNumbers\bin\Debug\PrintThreeNumbers.exe.config
+B:\SoftUni\C#Basic\Intro-Programming-Homework\PrintThreeNumbers\obj\Debug\PrintThreeNumbers.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\PrintThreeNumbers\obj\Debug\PrintThreeNumbers.pdb

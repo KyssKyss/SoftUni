@@ -1,0 +1,1 @@
+B:\SoftUni\C#Basic\Intro-Programming-Homework\SquareRootOfNumber\bin\Debug\SquareRootOfNumber.exe.config

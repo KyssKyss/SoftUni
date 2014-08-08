@@ -1,0 +1,6 @@
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\ResponsiveDesign\ResponsiveDesign\bin\ResponsiveDesign.dll.config
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\ResponsiveDesign\ResponsiveDesign\bin\ResponsiveDesign.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\ResponsiveDesign\ResponsiveDesign\bin\ResponsiveDesign.pdb
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\ResponsiveDesign\ResponsiveDesign\obj\Debug\ResponsiveDesign.csprojResolveAssemblyReference.cache
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\ResponsiveDesign\ResponsiveDesign\obj\Debug\ResponsiveDesign.dll
+D:\SoftUni\SoftUni.git\trunk\HTML-CSS\ResponsiveDesign\ResponsiveDesign\obj\Debug\ResponsiveDesign.pdb

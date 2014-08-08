@@ -1,0 +1,5 @@
+B:\SoftUni\C#Basic\Intro-Programming-Homework\DebugingPlay\bin\Debug\DebugingPlay.exe.config
+B:\SoftUni\C#Basic\Intro-Programming-Homework\DebugingPlay\bin\Debug\DebugingPlay.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\DebugingPlay\bin\Debug\DebugingPlay.pdb
+B:\SoftUni\C#Basic\Intro-Programming-Homework\DebugingPlay\obj\Debug\DebugingPlay.exe
+B:\SoftUni\C#Basic\Intro-Programming-Homework\DebugingPlay\obj\Debug\DebugingPlay.pdb
