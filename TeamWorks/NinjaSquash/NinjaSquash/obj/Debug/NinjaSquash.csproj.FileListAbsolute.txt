@@ -1,0 +1,6 @@
+B:\Telerik\Game\NinjaSquash\NinjaSquash\NinjaSquash\bin\Debug\NinjaSquash.exe.config
+B:\Telerik\Game\NinjaSquash\NinjaSquash\NinjaSquash\obj\Debug\NinjaSquash.csprojResolveAssemblyReference.cache
+B:\Telerik\Game\NinjaSquash\NinjaSquash\NinjaSquash\bin\Debug\NinjaSquash.exe
+B:\Telerik\Game\NinjaSquash\NinjaSquash\NinjaSquash\bin\Debug\NinjaSquash.pdb
+B:\Telerik\Game\NinjaSquash\NinjaSquash\NinjaSquash\obj\Debug\NinjaSquash.exe
+B:\Telerik\Game\NinjaSquash\NinjaSquash\NinjaSquash\obj\Debug\NinjaSquash.pdb
