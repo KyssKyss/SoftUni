@@ -1,0 +1,658 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="4837fa09-8e99-432e-b91e-a14fbeff8579" name="Default" comment="" />
+    <ignored path="PHPAndForms.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="PHPAndForms" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="01_PrintTags.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="24" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="680">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="03_CalculateInterest.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="7" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1020">
+              <folding>
+                <marker date="1408538775580" expanded="true" signature="541:1431" placeholder="..." />
+                <marker date="1408538775580" expanded="true" signature="552:606" placeholder="..." />
+                <marker date="1408538775580" expanded="true" signature="617:1423" placeholder="..." />
+                <marker date="1408538775580" expanded="true" signature="646:1411" placeholder="..." />
+                <marker date="1408538775580" expanded="true" signature="1114:1343" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="04_HTMLTagCounter.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/04_HTMLTagCounter.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="9" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="884">
+              <folding>
+                <marker date="1408549960160" expanded="true" signature="526:797" placeholder="..." />
+                <marker date="1408549960160" expanded="true" signature="537:589" placeholder="..." />
+                <marker date="1408549960160" expanded="true" signature="600:789" placeholder="..." />
+                <marker date="1408549960160" expanded="true" signature="629:777" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="02_MostFrequentTag.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/02_MostFrequentTag.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="561">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CVGenerator.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CVGenerator.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="160" column="0" selection-start="7537" selection-end="7537" vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="2295">
+              <folding>
+                <marker date="1408565150852" expanded="false" signature="4794:6276" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="4814:6270" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="4846:4996" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="4875:4963" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5028:6241" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5061:5199" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5232:5368" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5401:5530" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5563:5699" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5732:5863" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="5896:6034" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="6067:6208" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="6602:7416" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="6609:7410" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="6645:6751" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="6787:7377" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="6824:6978" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="7015:7161" placeholder="..." />
+                <marker date="1408565150852" expanded="true" signature="7198:7340" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="05_CV.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/05_CV.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="193" column="39" selection-start="10010" selection-end="10010" vertical-scroll-proportion="0.36563307" vertical-offset="2998" max-vertical-offset="3808">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/CalculateInterest.php" />
+        <option value="$PROJECT_DIR$/HTMLTagCounter.php" />
+        <option value="$PROJECT_DIR$/CVGenerator.php" />
+        <option value="$PROJECT_DIR$/PrintTags.php" />
+        <option value="$PROJECT_DIR$/MostFrequentTag.php" />
+        <option value="$PROJECT_DIR$/CV.php" />
+        <option value="$PROJECT_DIR$/05_CV.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpServers">
+    <option name="servers">
+      <server host="localhost" name="PhpStorm 7.1.3" port="63342" />
+      <server host="PhpStorm 7.1.3" name="PhpStorm 7.1.3 (1)" port="63342" />
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="994" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPAndForms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPAndForms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PHPAndForms" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="reference.idesettings.debugger.javascript" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="FullScreen" value="false" />
+    <property name="restartRequiresConfirmation" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.05_CV.php">
+    <configuration default="false" name="HTMLTagCounter.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPAndForms/HTMLTagCounter.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CVGenerator.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPAndForms/CVGenerator.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="CV.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPAndForms/CV.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="MostFrequentTag.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPAndForms/MostFrequentTag.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="05_CV.php" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true" temporary="true" uri="http://localhost:63342/PHPAndForms/05_CV.php">
+      <RunnerSettings RunnerId="JavascriptDebugRunner" />
+      <ConfigurationWrapper RunnerId="JavascriptDebugRunner" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpRemoteDebugRunConfigurationType" factoryName="PHP Remote Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpHttpRequestRunConfigurationType" factoryName="PHP HTTP Request">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="com.intellij.persistence.run.ConsoleRunConfigurationType" factoryName="Query Language Console">
+      <option name="VM_PARAMETERS" value="" />
+      <option name="USER_CFG_CLASS" />
+      <option name="CONTEXT_PROVIDER" />
+      <method />
+    </configuration>
+    <configuration default="false" name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="PhpStorm 7.1.3">
+      <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+      <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+      <method />
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="PHP Web Application.Unnamed" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.HTMLTagCounter.php" />
+      <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.CVGenerator.php" />
+      <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.CV.php" />
+      <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.MostFrequentTag.php" />
+      <item index="5" class="java.lang.String" itemvalue="JavaScript Debug.05_CV.php" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.05_CV.php" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.CV.php" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.MostFrequentTag.php" />
+        <item index="3" class="java.lang.String" itemvalue="JavaScript Debug.CVGenerator.php" />
+        <item index="4" class="java.lang.String" itemvalue="JavaScript Debug.HTMLTagCounter.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration" maxAnnotateRevisions="500" myUseAcceleration="nothing" myAutoUpdateAfterCommit="false" cleanupOnStartRun="true" SSL_PROTOCOLS="all">
+    <option name="USER" value="" />
+    <option name="PASSWORD" value="" />
+    <option name="mySSHConnectionTimeout" value="30000" />
+    <option name="mySSHReadTimeout" value="30000" />
+    <option name="LAST_MERGED_REVISION" />
+    <option name="MERGE_DRY_RUN" value="false" />
+    <option name="MERGE_DIFF_USE_ANCESTRY" value="true" />
+    <option name="UPDATE_LOCK_ON_DEMAND" value="false" />
+    <option name="IGNORE_SPACES_IN_MERGE" value="false" />
+    <option name="CHECK_NESTED_FOR_QUICK_MERGE" value="false" />
+    <option name="IGNORE_SPACES_IN_ANNOTATE" value="true" />
+    <option name="SHOW_MERGE_SOURCES_IN_ANNOTATE" value="true" />
+    <option name="FORCE_UPDATE" value="false" />
+    <option name="IGNORE_EXTERNALS" value="false" />
+    <configuration useDefault="false">C:\Users\T340\AppData\Roaming\Subversion</configuration>
+    <myIsUseDefaultProxy>false</myIsUseDefaultProxy>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4837fa09-8e99-432e-b91e-a14fbeff8579" name="Default" comment="" />
+      <created>1408356065328</created>
+      <updated>1408356065328</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="994" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896304" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18578352" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.35756853" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="10" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="24" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1020">
+          <folding>
+            <marker date="1408538775580" expanded="true" signature="541:1431" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="552:606" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="617:1423" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="646:1411" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="1114:1343" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_HTMLTagCounter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="884">
+          <folding>
+            <marker date="1408549960160" expanded="true" signature="526:797" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="537:589" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="600:789" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="629:777" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_MostFrequentTag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CVGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="7537" selection-end="7537" vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="2295">
+          <folding>
+            <marker date="1408565150852" expanded="false" signature="4794:6276" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4814:6270" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4846:4996" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4875:4963" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5028:6241" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5061:5199" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5232:5368" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5401:5530" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5563:5699" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5732:5863" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5896:6034" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6067:6208" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6602:7416" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6609:7410" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6645:6751" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6787:7377" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6824:6978" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="7015:7161" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="7198:7340" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_CV.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="39" selection-start="10010" selection-end="10010" vertical-scroll-proportion="0.0" vertical-offset="3334" max-vertical-offset="3808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1020">
+          <folding>
+            <marker date="1408538775580" expanded="true" signature="541:1431" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="552:606" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="617:1423" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="646:1411" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="1114:1343" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_HTMLTagCounter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="884">
+          <folding>
+            <marker date="1408549960160" expanded="true" signature="526:797" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="537:589" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="600:789" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="629:777" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CVGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="83" column="0" selection-start="4242" selection-end="4242" vertical-scroll-proportion="0.0" vertical-offset="743" max-vertical-offset="1530">
+          <folding>
+            <marker date="1408565150852" expanded="false" signature="4794:6276" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4814:6270" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4846:4996" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4875:4963" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5028:6241" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5061:5199" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5232:5368" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5401:5530" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5563:5699" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5732:5863" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5896:6034" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6067:6208" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6602:7416" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6609:7410" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6645:6751" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6787:7377" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6824:6978" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="7015:7161" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="7198:7340" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1020">
+          <folding>
+            <marker date="1408538775580" expanded="true" signature="541:1431" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="552:606" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="617:1423" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="646:1411" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="1114:1343" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_HTMLTagCounter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="8" selection-start="1639" selection-end="1639" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="884">
+          <folding>
+            <marker date="1408549960160" expanded="true" signature="526:797" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="537:589" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="600:789" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="629:777" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1020">
+          <folding>
+            <marker date="1408538775580" expanded="true" signature="541:1431" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="552:606" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="617:1423" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="646:1411" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="1114:1343" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="21" column="28" selection-start="823" selection-end="823" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="629">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_MostFrequentTag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="2" selection-start="327" selection-end="327" vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="1" selection-start="1069" selection-end="1069" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_MostFrequentTag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="176" selection-end="176" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="357" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/03_CalculateInterest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="7" selection-start="1432" selection-end="1432" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="1020">
+          <folding>
+            <marker date="1408538775580" expanded="true" signature="541:1431" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="552:606" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="617:1423" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="646:1411" placeholder="..." />
+            <marker date="1408538775580" expanded="true" signature="1114:1343" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/04_HTMLTagCounter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="9" selection-start="1906" selection-end="1906" vertical-scroll-proportion="0.0" vertical-offset="629" max-vertical-offset="884">
+          <folding>
+            <marker date="1408549960160" expanded="true" signature="526:797" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="537:589" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="600:789" placeholder="..." />
+            <marker date="1408549960160" expanded="true" signature="629:777" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CVGenerator.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="160" column="0" selection-start="7537" selection-end="7537" vertical-scroll-proportion="0.0" vertical-offset="2295" max-vertical-offset="2295">
+          <folding>
+            <marker date="1408565150852" expanded="false" signature="4794:6276" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4814:6270" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4846:4996" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="4875:4963" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5028:6241" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5061:5199" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5232:5368" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5401:5530" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5563:5699" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5732:5863" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="5896:6034" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6067:6208" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6602:7416" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6609:7410" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6645:6751" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6787:7377" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="6824:6978" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="7015:7161" placeholder="..." />
+            <marker date="1408565150852" expanded="true" signature="7198:7340" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/02_MostFrequentTag.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="0" selection-start="6" selection-end="6" vertical-scroll-proportion="0.0" vertical-offset="17" max-vertical-offset="561">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01_PrintTags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="24" selection-start="414" selection-end="414" vertical-scroll-proportion="0.0" vertical-offset="136" max-vertical-offset="680">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05_CV.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="193" column="39" selection-start="10010" selection-end="10010" vertical-scroll-proportion="0.36563307" vertical-offset="2998" max-vertical-offset="3808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+
