@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Unnamed" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" editBeforeRun="true" server_name="Unnamed" start_url="/NonRepeatingDigits.php">
+    <RunnerSettings RunnerId="PhpRunner" />
+    <RunnerSettings RunnerId="PhpWebAppDebugRunner" />
+    <ConfigurationWrapper RunnerId="PhpRunner" />
+    <ConfigurationWrapper RunnerId="PhpWebAppDebugRunner" />
+    <method />
+  </configuration>
+</component>
